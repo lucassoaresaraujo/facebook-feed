@@ -4,6 +4,6 @@ Resposta ao [desafio Rocketseat](https://github.com/Rocketseat/bootcamp-gostack-
 
 ## Instruções
 
-1 - Baixe o projeto e execute o comando `yarn`.}
+1 - Baixe o projeto e execute o comando `yarn`.
 
 2 - Após o download das dependências, execute o comando `yarn dev`
